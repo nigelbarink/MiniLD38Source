@@ -1,0 +1,8 @@
+/builds
+/Build
+/Library
+/Temp
+/obj
+*.meta
+*.rar
+*.zip
