@@ -1,0 +1,25 @@
+Greetings!
+
+Ludum Dare 38 is getting closer every day. But first, let’s do another MiniLD!
+
+Do you remember arcade games in dodgy cafes, dedicated amusement arcades or, as in my case, the local ferry? Games that were brutally hard and designed to eat your quarters, but they all had one thing in common: a high score leaderboard! Of course, getting your name on that leaderboard would be a sign of awesomeness.
+
+What’s the theme?
+For this MiniLD, I wanted to do something with high scores, so I’ve decided to call the theme “elympics” (sorry, but I can’t resist a bad pun). The aim is simply to make a game where you end up with a score that can be submitted to a leaderboard. What kind of score is up to you – the game could be a speedrun, a time-limited trial or simply a “collect the most points” type of challenge.
+
+I have designed a simple API that your game may use to submit scores, and the idea is to show all the high scores of participating games on a single page. Of course, you can skip that part and just have a leaderboard internally in your game, but it would be fun if people would join in and submit scores to the API.
+
+The theme is not meant to be restricting games to Olympic events, but if you want to use that as inspiration, go ahead! Remember that the Olympic games are ancient and that many events have disappeared since the ancient games started around 776 BC. Some examples are tug-of-war, firefighting and running while wearing armour.
+
+When is the deadline?
+This is February’s MiniLD, so you have until the end of the month. This post was published Friday 17th, so that’s around 11 days in total. For completeness, the deadline is Tuesday February 28th, 24:00 AoE (UTC-12).
+
+Are there prizes?
+Nope – except fame and improving your gamedev skills!
+
+What do I do?
+Make a game, any game! If you want to submit high scores and have your leaderboard on the official page, go to https://dollarone.games/elympics/ to register your game and to find details about the API where you can submit scores.
+
+All the leaderboards from games that utilize the high score API will be displayed at https://dollarone.games/elympics/leaderboards.html.
+
+Good luck and have fun!
